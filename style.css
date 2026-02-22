@@ -59,7 +59,7 @@ section{
 
 @font-face{
     font-family: 'Protest';
-    src: url('font/Protest.otf') format('truetype');
+    src: url('Protest.otf') format('truetype');
 }
 
 .titulo-principal{
@@ -79,7 +79,7 @@ section{
 
 @font-face{
   font-family: 'Vintage';
-  src: url('font/Vintage.otf') format('truetype');
+  src: url('Vintage.otf') format('truetype');
 }
 
 .Eslogan{
@@ -138,3 +138,4 @@ section{
         text-align: center;
     }
 }
+
